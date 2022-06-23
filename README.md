@@ -1,16 +1,18 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=beloved%20GitHub&fontSize=90)
 
-<!--
-**beloved0702/beloved0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my page!
+I`m David. Big Data Analyst📈 from Seoul, Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I code with
+
+👨‍💻Tech Stack
+
+💡used as the main
+
+PYTHON/R/MYSQL/ORACLE/
+
+💡used at least once
+
+DJANGO/HTML/JAVA/JAVASCRIPT/JSP/SPRING
+
